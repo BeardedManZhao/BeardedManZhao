@@ -4,7 +4,7 @@
 # My repository
 - EasterBunny
 
-<a href="https://github.com/BeardedManZhao/dataTear/blob/main/KnowledgeDocument/knowledge%20base.md">
+<a href="https://github.com/BeardedManZhao/EasterBunny.git">
  <img src = "https://user-images.githubusercontent.com/113756063/194016826-223d2087-1366-459b-9940-578c794ce16d.png"/>
 </a>
 
