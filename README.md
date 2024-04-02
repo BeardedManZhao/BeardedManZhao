@@ -11,7 +11,4 @@
 
 ## If you are satisfied, welcome donate! Easy for open source maintenance
 
-> Both QR codes are the same
-
-![113355BLFp6Yte7SwEQpeD](https://github.com/BeardedManZhao/BeardedManZhao/assets/113756063/3645d837-38ef-4560-8185-2722e80a0018)
-![qrcode](https://github.com/BeardedManZhao/BeardedManZhao/assets/113756063/9ae6f758-bb3d-4824-84f0-8c6be8a01969)
+![image](https://github.com/BeardedManZhao/BeardedManZhao/assets/113756063/9ec0c00e-ebd8-4254-8623-faaf66eee61c)
